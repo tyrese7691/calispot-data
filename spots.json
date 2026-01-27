@@ -11,11 +11,11 @@
     "nearestTrainStation": "Sydenham",
     "equipment": ["pullUpBars","dipBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/mayow-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/mayow-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/mayow-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/mayow-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/mayow-park/5.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/mayow-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/mayow-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/mayow-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/mayow-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/mayow-park/5.jpg"
     ]
   },
   {
@@ -30,11 +30,11 @@
     "nearestTrainStation": "Beckenham Hill",
     "equipment": ["pullUpBars","dipBars","monkeyBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/beckenham-place-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/beckenham-place-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/beckenham-place-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/beckenham-place-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/beckenham-place-park/5.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/beckenham-place-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/beckenham-place-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/beckenham-place-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/beckenham-place-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/beckenham-place-park/5.jpg"
     ]
   },
   {
@@ -49,16 +49,16 @@
     "nearestTrainStation": "Anerley",
     "equipment": ["pullUpBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/betts-park/10.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/10.jpg"
     ]
   },
   {
@@ -73,15 +73,15 @@
     "nearestTrainStation": "Clapham Junction, Queenstown Road",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/latchmere-recreation-ground/9.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/latchmere-recreation-ground/9.jpg"
     ]
   },
   {
@@ -96,19 +96,19 @@
     "nearestTrainStation": "Kennington, Elephant & Castle",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/burgess-park/13.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/burgess-park/13.jpg"
     ]
   },
   {
@@ -123,15 +123,15 @@
     "nearestTrainStation": "Kennington, Oval",
     "equipment": ["pullUpBars","dipBars","monkeyBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/kennington-park/9.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/kennington-park/9.jpg"
     ]
   },
   {
@@ -146,12 +146,12 @@
     "nearestTrainStation": "Stockwell, Brixton",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/slade-gardens/6.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/slade-gardens/6.jpg"
     ]
   },
   {
@@ -166,10 +166,10 @@
     "nearestTrainStation": "Stockwell, Brixton",
     "equipment": ["pullUpBars","dipBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/serenaders-road/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/serenaders-road/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/serenaders-road/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/serenaders-road/4.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/serenaders-road/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/serenaders-road/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/serenaders-road/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/serenaders-road/4.jpg"
     ]
   },
   {
@@ -184,10 +184,10 @@
     "nearestTrainStation": "Woodside, Blackhorse Lane",
     "equipment": ["pullUpBars","dipBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ashburton-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ashburton-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ashburton-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ashburton-park/4.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ashburton-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ashburton-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ashburton-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ashburton-park/4.jpg"
     ]
   },
   {
@@ -202,11 +202,11 @@
     "nearestTrainStation": "Battersea Power Station",
     "equipment": [],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/thessaly-road/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/thessaly-road/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/thessaly-road/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/thessaly-road/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/thessaly-road/5.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/thessaly-road/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/thessaly-road/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/thessaly-road/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/thessaly-road/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/thessaly-road/5.jpg"
     ]
   },
   {
@@ -221,17 +221,17 @@
     "nearestTrainStation": "Wandsworth Road, Nine Elms, Stockwell",
     "equipment": ["pullUpBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/larkhall-park/11.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/larkhall-park/11.jpg"
     ]
   },
   {
@@ -246,11 +246,11 @@
     "nearestTrainStation": "Clapham Common, Clapham Junction",
     "equipment": ["pullUpBars","dipBars","lowBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common/5.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common/5.jpg"
     ]
   },
   {
@@ -265,24 +265,24 @@
     "nearestTrainStation": "Selhurst",
     "equipment": ["pullUpBars","dipBars","monkeyBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/13.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/14.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/15.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/16.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/17.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/king-georges-field/18.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/13.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/14.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/15.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/16.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/17.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/king-georges-field/18.jpg"
     ]
   },
   {
@@ -297,14 +297,14 @@
     "nearestTrainStation": "Norwood Junction",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/south-norwood-recreation-ground/8.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/south-norwood-recreation-ground/8.jpg"
     ]
   },
   {
@@ -319,23 +319,23 @@
     "nearestTrainStation": "Mitcham Eastfields, Tooting",
     "equipment": ["pullUpBars","dipBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/13.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/14.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/15.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/16.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/figges-marsh/17.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/13.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/14.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/15.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/16.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/figges-marsh/17.jpg"
     ]
   },
   {
@@ -350,25 +350,25 @@
     "nearestTrainStation": "Nunhead, Honor Oak Park",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/13.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/14.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/15.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/16.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/17.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/18.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/peckham-rye/19.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/13.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/14.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/15.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/16.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/17.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/18.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/peckham-rye/19.jpg"
     ]
   },
   {
@@ -383,20 +383,20 @@
     "nearestTrainStation": "Surrey Quays",
     "equipment": ["dipBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/13.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/southwark-park/14.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/13.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/southwark-park/14.jpg"
     ]
   },
   {
@@ -411,15 +411,15 @@
     "nearestTrainStation": "Denmark Hill, Loughborough Junction",
     "equipment": ["pullUpBars","dipBars","monkeyBars","lowBars","abs"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/ruskin-park/9.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/ruskin-park/9.jpg"
     ]
   },
   {
@@ -434,7 +434,7 @@
     "nearestTrainStation": "Herne Hill",
     "equipment": ["pullUpBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/brockwell-park/1.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/brockwell-park/1.jpg"
     ]
   },
   {
@@ -449,19 +449,19 @@
     "nearestTrainStation": "Clapham Junction, Clapham Common",
     "equipment": ["pullUpBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/7.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/8.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/9.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/10.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/11.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/12.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/clapham-common-west/13.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/10.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/11.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/12.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/clapham-common-west/13.jpg"
     ]
   },
   {
@@ -476,13 +476,13 @@
     "nearestTrainStation": "Sydenham, Sydenham Hill",
     "equipment": ["pullUpBars"],
     "images": [
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/1.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/2.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/3.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/4.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/5.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/6.jpg",
-      "https://cdn.jsdelivr.net/gh/tyrese7691/calispot-data@main/images/sydenham-wells-park/7.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/sydenham-wells-park/7.jpg"
     ]
   }
 ]
