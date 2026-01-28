@@ -76,6 +76,13 @@
     "instagram": "calispotapp",
     "tiktok": "calispotapp",
     "bio": "Discover London's best CaliSpots"
+  },
+  "workoutGroup": {
+    "name": "Saturday Cali Crew",
+    "dayTime": "Sat 11:00",
+    "level": "Beginner–Intermediate",
+    "contact": "https://chat.whatsapp.com/EXAMPLE",
+    "notes": "Meet by the pull-up bars. Warm-up together."
   }
   },
   {
