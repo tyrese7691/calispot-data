@@ -70,7 +70,13 @@
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/8.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/9.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/betts-park/10.jpg"
-    ]
+    ],
+  "sponsoredPT": {
+    "name": "CaliSpot",
+    "instagram": "calispotapp",
+    "tiktok": "calispotapp",
+    "bio": "Discover London's best CaliSpots"
+  }
   },
   {
     "id": "00000000-0000-0000-0000-000000000004",
