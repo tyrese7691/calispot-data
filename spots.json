@@ -602,5 +602,27 @@
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/4.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/5.jpg"
     ]
+  },
+ {
+    "id": "00000000-0000-0000-0000-000000000023",
+    "slug": "wenham-house",
+    "name": "Wenham House",
+    "lat": 51.47817,
+    "lng": -0.14191,
+    "surfaceType": "Grass",
+    "equipmentQualityRating": 3,
+    "equipmentVarietyRating": 2,
+    "nearestTrainStation": "Battersea Power Station",
+    "equipment": [
+      "pullUpBars",
+      "dipBars"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/5.jpg"
+    ]
   }
 ]
