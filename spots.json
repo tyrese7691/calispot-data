@@ -600,7 +600,10 @@
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/2.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/3.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/4.jpg",
-      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/5.jpg"
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/bonsor-house/8.jpg"
     ]
   },
  {
@@ -623,6 +626,36 @@
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/3.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/4.jpg",
       "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/wenham-house/5.jpg"
+    ]
+  },
+ {
+    "id": "00000000-0000-0000-0000-000000000024",
+    "slug": "battersea-park",
+    "name": "Battersea Park",
+    "lat": 51.4803406,
+    "lng": -0.1516605,
+    "surfaceType": "Grass",
+    "equipmentQualityRating": 5,
+    "equipmentVarietyRating": 5,
+    "nearestTrainStation": "Battersea Park",
+    "equipment": [
+      "pullUpBars",
+      "dipBars",
+      "monkeyBars",
+      "lowBars",
+      "abs"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/1.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/2.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/3.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/4.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/5.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/6.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/7.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/8.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/9.jpg",
+      "https://raw.githubusercontent.com/tyrese7691/calispot-data/main/images/battersea-park/10.jpg"
     ]
   }
 ]
