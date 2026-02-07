@@ -589,7 +589,7 @@
     "surfaceType": "Grass",
     "equipmentQualityRating": 4,
     "equipmentVarietyRating": 3,
-    "nearestTrainStation": "Battersea Power Station",
+    "nearestTrainStation": "Battersea Power Station, Wandsworth Road",
     "equipment": [
       "pullUpBars",
       "lowBars",
