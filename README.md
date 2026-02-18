@@ -1,5 +1,3 @@
-# calispot-data
-CaliSpot
 CaliSpot is a location-based web application that helps users discover outdoor calisthenics spots, filter them by available equipment, and save favourites.
 Live app: https://apps.apple.com/gb/app/calispot/id6747050360
 Tech stack: JavaScript, React, Next.js
